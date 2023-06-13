@@ -1,0 +1,10 @@
+* liblmdb
+
+Low-level LMDB bindings
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/antimer/liblmdb.git   |
+| commit  | c1d1df6  |
+| systems | liblmdb |
+|---------+-------------------------------------------|
+
